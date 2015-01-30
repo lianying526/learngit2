@@ -1,3 +1,2 @@
 dev branch file .
-master modifyed.
-master modifyed 2.
+merge branch is quick and simple.
